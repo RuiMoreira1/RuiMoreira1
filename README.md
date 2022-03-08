@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on C, C++, Java
+- 🔭 I’m currently working on C, C++, Java, Python.
 - 🌱 I’m currently learning JavaScript, Node.js, Html & CSS, Haskell, Rust
 - 🐦 I'm currently interested in CyberSecurity 
 - 💬 Ask me about Anything
