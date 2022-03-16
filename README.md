@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a football referee
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=marhcouto&show_icons=true&theme=gotham" alt="RuiMoreira1" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RuiMoreira1&show_icons=true&theme=gotham" alt="RuiMoreira1" />
